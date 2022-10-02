@@ -1,0 +1,68 @@
+#logo {
+    max-width: 40%;
+    max-height: 80%;
+}
+.nav-link {
+    font-size: 0.85vw;
+    color:rgb(103, 109, 109);
+}
+
+#ConfBsAs {
+    color: white;
+}
+
+#titulosuperpuesto {
+    font-size: 3.1vw;
+    color: white;
+    position: absolute;
+    top: 45%;
+    left: 75%;
+    text-align: right;
+    margin-right: 5%;
+}
+
+#textosuperpuesto {
+    font-size: 1.5vw;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 38%;
+    text-align: right;
+    margin-right: 10%;
+}
+
+#boton1{
+    color: white;
+    position: absolute;
+    top: 90%;
+    left: 74.5%;
+    border-color: white;
+}
+
+#boton2{
+    position: absolute;
+    top:90%;
+    left:83%;
+}
+
+.titulointermedio{
+    text-align: center;
+}
+
+.titulointermedio2{
+    text-align: center;
+}
+
+#formulario{
+    margin-inline: 23%;
+}
+
+#botonenviar{
+    background-color: #a9d50d;
+    border-color: #a9d50d;
+}
+
+footer{
+    background-color: #012F57;
+    padding-top: 1%;
+}
